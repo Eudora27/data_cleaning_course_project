@@ -28,7 +28,7 @@ The R script does the following:
 
 ### Identifiers
 
-* `train`: 1 - training set; 2 - testing set
+* `train`: 1 - training set; 0 - testing set
 * `subject`: Subject ids
 
 ### Features
