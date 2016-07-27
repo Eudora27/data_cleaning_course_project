@@ -16,6 +16,9 @@ The R script does the following:
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 6. Writes the two cleaned dataset to txt files
 
+[Here] are the data for the project.
+
+[Here]: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ## Codebook (tidy.txt)
 
